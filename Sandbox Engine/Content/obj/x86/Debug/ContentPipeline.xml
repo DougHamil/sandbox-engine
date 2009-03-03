@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Ball.png</Source>
+      <Name>Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Ball.xnb</Output>
+      <Time>2009-02-26T16:45:17.78125-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\Testing\GreenBar.png</Source>
+      <Name>Media\Testing\GreenBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\Testing\GreenBar.xnb</Output>
+      <Time>2009-02-26T19:02:48.671-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\Testing\Rolling.png</Source>
+      <Name>Media\Testing\Rolling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\Testing\Rolling.xnb</Output>
+      <Time>2009-02-26T23:25:00.88975-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\detailsFont.spritefont</Source>
+      <Name>Fonts\detailsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Fonts\detailsFont.xnb</Output>
+      <Time>2009-02-26T22:38:49.811625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\diagnosticFont.spritefont</Source>
+      <Name>Fonts\diagnosticFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Fonts\diagnosticFont.xnb</Output>
+      <Time>2009-02-26T22:38:49.811625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\frameRateCounterFont.spritefont</Source>
+      <Name>Fonts\frameRateCounterFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Fonts\frameRateCounterFont.xnb</Output>
+      <Time>2009-02-26T22:38:49.8585-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont.spritefont</Source>
+      <Name>Fonts\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Fonts\gamefont.xnb</Output>
+      <Time>2009-02-26T22:38:49.8585-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menufont.spritefont</Source>
+      <Name>Fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Fonts\menufont.xnb</Output>
+      <Time>2009-02-26T22:38:49.796-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\Testing\Pill.png</Source>
+      <Name>Media\Testing\Pill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\Testing\Pill.xnb</Output>
+      <Time>2009-02-26T23:22:02.3585-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bar.png</Source>
+      <Name>Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Bar.xnb</Output>
+      <Time>2009-02-27T00:30:56.217875-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Gear.png</Source>
+      <Name>Gear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Gear.xnb</Output>
+      <Time>2009-02-27T13:11:16.15625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Gear2.png</Source>
+      <Name>Gear2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Gear2.xnb</Output>
+      <Time>2009-02-28T17:45:35.030625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\Logo.png</Source>
+      <Name>Media\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\Logo.xnb</Output>
+      <Time>2009-02-28T21:55:48.577625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\GUI\Shade.png</Source>
+      <Name>Media\GUI\Shade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\GUI\Shade.xnb</Output>
+      <Time>2009-03-01T18:45:40.046375-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\Menus\MainMenuBottom.png</Source>
+      <Name>Media\Menus\MainMenuBottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\Menus\MainMenuBottom.xnb</Output>
+      <Time>2009-03-01T17:20:07.53075-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\Menus\Tree.png</Source>
+      <Name>Media\Menus\Tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\Menus\Tree.xnb</Output>
+      <Time>2009-03-01T17:26:55.40575-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\Menus\EditorButton.png</Source>
+      <Name>Media\Menus\EditorButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\Menus\EditorButton.xnb</Output>
+      <Time>2009-03-01T18:20:43.515125-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\Menus\QuitButton.png</Source>
+      <Name>Media\Menus\QuitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\Menus\QuitButton.xnb</Output>
+      <Time>2009-03-02T18:55:46.0305-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\ChainLink.png</Source>
+      <Name>Media\ChainLink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\ChainLink.xnb</Output>
+      <Time>2009-03-01T19:02:53.96825-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\Cog.png</Source>
+      <Name>Media\Cog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\Cog.xnb</Output>
+      <Time>2009-03-01T19:13:57.796375-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\CogSmall.png</Source>
+      <Name>Media\CogSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\CogSmall.xnb</Output>
+      <Time>2009-03-01T19:22:47.015125-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\Menus\BirdHeadLogo.png</Source>
+      <Name>Media\Menus\BirdHeadLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\Media\Menus\BirdHeadLogo.xnb</Output>
+      <Time>2009-03-02T20:51:28.62425-08:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2009-03-02T21:27:09.483625-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\Sandbox Engine\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-12-27T22:38:01.4685-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

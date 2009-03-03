@@ -1,0 +1,5 @@
+C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\SEProcessorLib\bin\x86\Debug\SEProcessorLib.dll
+C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\SEProcessorLib\bin\x86\Debug\SEProcessorLib.pdb
+C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\SEProcessorLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\SEProcessorLib\obj\x86\Debug\SEProcessorLib.dll
+C:\Documents and Settings\Douglas\My Documents\Visual Studio 2008\Projects\Sandbox Engine\SEProcessorLib\obj\x86\Debug\SEProcessorLib.pdb

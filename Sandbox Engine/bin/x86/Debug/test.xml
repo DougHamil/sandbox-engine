@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Entities="Sandbox_Engine.Entities">
+  <Asset Type="Entities:StructRigidEntity">
+    <textureName></textureName>
+    <gType>Circle</gType>
+    <friction>0</friction>
+    <restitution>0.5</restitution>
+    <name>GEAR3</name>
+  </Asset>
+</XnaContent>

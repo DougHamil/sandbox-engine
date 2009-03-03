@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StructRigidEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <textureName>Media\\Cog</textureName>
+  <gType>Circle</gType>
+  <friction>0</friction>
+  <restitution>0.5</restitution>
+  <name>Gear</name>
+</StructRigidEntity>

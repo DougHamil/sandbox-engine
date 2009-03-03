@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox Engine", "Sandbox Engine\Sandbox Engine.csproj", "{7DCBC0CE-2637-41F5-8716-34358BA6D4CD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D} = {3CA74E02-3210-4BF8-85E9-024E9AD6F18D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarseerPhysics", "..\..\..\..\Desktop\FarseerPhysics2.0.1SimpleSamplesForXNA\FarseerPhysics2.0.1OnlyForXNA\FarseerPhysics.csproj", "{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEProcessorLib", "SEProcessorLib\SEProcessorLib.csproj", "{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Debug|Zune = Debug|Zune
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DCBC0CE-2637-41F5-8716-34358BA6D4CD}.Debug|x86.ActiveCfg = Debug|x86
+		{7DCBC0CE-2637-41F5-8716-34358BA6D4CD}.Debug|x86.Build.0 = Debug|x86
+		{7DCBC0CE-2637-41F5-8716-34358BA6D4CD}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{7DCBC0CE-2637-41F5-8716-34358BA6D4CD}.Debug|Zune.ActiveCfg = Debug|x86
+		{7DCBC0CE-2637-41F5-8716-34358BA6D4CD}.Release|x86.ActiveCfg = Release|x86
+		{7DCBC0CE-2637-41F5-8716-34358BA6D4CD}.Release|x86.Build.0 = Release|x86
+		{7DCBC0CE-2637-41F5-8716-34358BA6D4CD}.Release|Xbox 360.ActiveCfg = Release|x86
+		{7DCBC0CE-2637-41F5-8716-34358BA6D4CD}.Release|Zune.ActiveCfg = Release|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Debug|x86.ActiveCfg = Debug|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Debug|x86.Build.0 = Debug|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Debug|Zune.ActiveCfg = Debug|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Release|x86.ActiveCfg = Release|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Release|x86.Build.0 = Release|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Release|Xbox 360.ActiveCfg = Release|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Release|Zune.ActiveCfg = Release|x86
+		{1492E0DA-3156-4608-A231-1FF028F31D0E}.Debug|x86.ActiveCfg = Debug|x86
+		{1492E0DA-3156-4608-A231-1FF028F31D0E}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{1492E0DA-3156-4608-A231-1FF028F31D0E}.Debug|Zune.ActiveCfg = Debug|x86
+		{1492E0DA-3156-4608-A231-1FF028F31D0E}.Release|x86.ActiveCfg = Release|x86
+		{1492E0DA-3156-4608-A231-1FF028F31D0E}.Release|Xbox 360.ActiveCfg = Release|x86
+		{1492E0DA-3156-4608-A231-1FF028F31D0E}.Release|Zune.ActiveCfg = Release|x86
+		{5DB75E98-A054-4091-AB49-F5DB0F17F771}.Debug|x86.ActiveCfg = Debug|x86
+		{5DB75E98-A054-4091-AB49-F5DB0F17F771}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{5DB75E98-A054-4091-AB49-F5DB0F17F771}.Debug|Zune.ActiveCfg = Debug|x86
+		{5DB75E98-A054-4091-AB49-F5DB0F17F771}.Release|x86.ActiveCfg = Release|x86
+		{5DB75E98-A054-4091-AB49-F5DB0F17F771}.Release|Xbox 360.ActiveCfg = Release|x86
+		{5DB75E98-A054-4091-AB49-F5DB0F17F771}.Release|Zune.ActiveCfg = Release|x86
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Debug|x86.ActiveCfg = Debug|x86
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Debug|x86.Build.0 = Debug|x86
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Debug|Zune.ActiveCfg = Debug|Zune
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Debug|Zune.Build.0 = Debug|Zune
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Release|x86.ActiveCfg = Release|x86
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Release|x86.Build.0 = Release|x86
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Release|Zune.ActiveCfg = Release|Zune
+		{A3347F8B-BBB4-4D7D-83CE-3C01F5646B7B}.Release|Zune.Build.0 = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
