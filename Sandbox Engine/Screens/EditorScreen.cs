@@ -77,13 +77,6 @@ namespace Sandbox_Engine.Screens
             if (InputHelper.getRightMouseClicked())
             {
                 StructRigidEntity sr = entityManager.getEntityAt(InputHelper.MouseVector).toStruct();
-                XmlWriterSettings xmlSettings = new XmlWriterSettings();
-                xmlSettings.Indent = true;
-                using (XmlWriter xmlWriter = XmlWriter.Create("test.xml", xmlSettings))
-                {
-                    IntermediateSerializer.Serialize(xmlWriter, sr, null);
-                }
-                
             }
             //Update Physics
             physicsSim.Update(gameTime.ElapsedGameTime.Milliseconds * 0.01f);

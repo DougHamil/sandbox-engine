@@ -102,8 +102,6 @@
     <Compile Include="GUI\GUIObject.cs" />
     <Compile Include="InputHelper.cs" />
     <Compile Include="PhysicsSimulatorView.cs" />
-    <Compile Include="Pipeline\StructRigidEntityContentReader.cs" />
-    <Compile Include="Pipeline\StructRigidEntityContentWriter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />
